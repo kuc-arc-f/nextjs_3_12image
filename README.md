@@ -4,14 +4,14 @@
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
- date    : 2021/04/26
+ date    : 2021/04/25
 
- update  :
+ update  : 2021/04/25
 
 ***
 ### Summary
 
-Next.js , Webp image file upload sample
+Next.js , image file upload / Webp convert 
 
 ***
 ### Setup
